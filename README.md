@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Wafulaian
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on anything and everything...
-- 📫 How to reach me ...
-
-<!---
-Wafulaian/Wafulaian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there am Wafulaian.
+🚀 I am an enthusiastic junior web developer with a hunger for crafting seamless digital experiences. Proficient in front-end technologies and always eager to learn. Let's collaborate on projects that push boundaries and leave a mark on the web!🌟 #CodeCraftsman #WebDevJourney  #CodeWithPassion
+ Let's build the web of tomorrow together!" 🌟
